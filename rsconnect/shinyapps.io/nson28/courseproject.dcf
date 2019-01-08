@@ -1,0 +1,12 @@
+name: courseproject
+title:
+username:
+account: nson28
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 628816
+bundleId: 1801959
+url: https://nson28.shinyapps.io/courseproject/
+when: 1546905317.80694
+asMultiple: FALSE
+asStatic: FALSE
