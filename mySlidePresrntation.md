@@ -42,5 +42,5 @@ BMI
 
 The  Application 
 ========================================================
-- The  github repostory of this project is found in the  following link <https://support.rstudio.com/hc/en-us/articles/200486468>.
+- The  github repository of this project is found in the  following link <https://github.com/nson28/final_project>.
 - The  shiny web application is hosted via shinyapps.io website and can be accessed via <https://nson28.shinyapps.io/courseproject/>.
